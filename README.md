@@ -9,28 +9,25 @@
 <h3 align="center"> 
   <samp>
     <br>
-    「 <b> A Full-Stack Flutter & Web Developer</b> 」
+    「 <b> A Frontend Web Developer & A Video Editor</b> 」
     <br>
     <br>
   </samp>
 </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/nitesh-paudel-b0a6a6238/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nitesh"/>
+ <a href="https://www.linkedin.com/in/shresthabimal11/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bimal"/>
  </a>
- <a href="https://dribbble.com/niteshpaudel" target="_blank">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Nitesh"/>
+ <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Bimal"/>
  </a>
- <a href="https://twitter.com/nitesvh" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Nitesh"/>
+ <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Bimal"/>
  </a>
- <a href="https://instagram.com/nitesvh" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nitesh"/>
+ <a href="https://www.instagram.com/shresthabimal11/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bimal"/>
  </a> 
- <a href="https://mailto:niteshpaudel.x@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EB562E?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Nitesh"/>
-  </a>
 </p>
 <br>
 
@@ -58,32 +55,32 @@
 
 # <samp>COOL REPOS</samp>
 <div align="center">
-       <a href="https://github.com/niteshpaudel/Widows-11-UI-Clone">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=niteshpaudel&repo=Windows-11-UI-Clone&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+       <a href="https://github.com/Bimalpaudel/Widows-11-UI-Clone">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Windows-11-UI-Clone&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
        </a>
-        <a href="https://github.com/niteshpaudel/Burger-Store-App-in-Flutter">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=niteshpaudel&repo=Burger-Store-App-in-Flutter&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/Bimalpaudel/Burger-Store-App-in-Flutter">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Burger-Store-App-in-Flutter&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
-        <a href="https://github.com/niteshpaudel/Bollywood-Game-in-Python">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=niteshpaudel&repo=Bollywood-Game-in-Python&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/Bimalpaudel/Bollywood-Game-in-Python">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Bollywood-Game-in-Python&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
-        <a href="https://github.com/niteshpaudel/Conic-Gradient-Analog-Clock-in-HTML-CSS-JS">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=niteshpaudel&repo=Conic-Gradient-Analog-Clock-in-HTML-CSS-JS&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/Bimalpaudel/Conic-Gradient-Analog-Clock-in-HTML-CSS-JS">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Conic-Gradient-Analog-Clock-in-HTML-CSS-JS&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/niteshpaudel?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-238636?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Bimalpaudel?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-238636?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <a href="https://github.com/niteshpaudel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshpaudel&theme=soft-green&border=238636&background=0D1117" alt="Nitesh's GitHub streak"/>
+  <a href="https://github.com/Bimalpaudel">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bimalpaudel&theme=soft-green&border=238636&background=0D1117" alt="Bimal's GitHub streak"/>
   </a>
 </p>
 
@@ -92,11 +89,11 @@
 <br>
 
 <div align="center"> 
-    <a href="https://github.com/niteshpaudel"><img alt="Nitesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=niteshpaudel&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
-  <a href="https://github.com/niteshpaudel"><img alt="Nitesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=niteshpaudel&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+    <a href="https://github.com/Bimalpaudel"><img alt="Bimal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bimalpaudel&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+  <a href="https://github.com/Bimalpaudel"><img alt="Bimal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bimalpaudel&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
   <br/>
 </div>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshpaudel&custom_title=Nitesh%20Paudel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimalpaudel&custom_title=Bimal%20Paudel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
 
