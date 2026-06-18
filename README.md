@@ -50,13 +50,13 @@
 # <samp>COOL REPOS</samp>
 <div align="center">
        <a href="https://github.com/bimalshrestha10/knight-productions">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=Windows-11-UI-Clone&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=knight-productions&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
        </a>
         <a href="https://github.com/bimalshrestha10/personal-protfolio-website">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=Burger-Store-App-in-Flutter&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=personal-protfolio-website&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
         <a href="https://github.com/bimalshrestha10/Project7">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=Burger-Store-App-in-Flutter&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=Project7&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
 </div>
 
