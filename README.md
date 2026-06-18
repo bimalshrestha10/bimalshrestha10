@@ -55,32 +55,26 @@
 
 # <samp>COOL REPOS</samp>
 <div align="center">
-       <a href="https://github.com/Bimalpaudel/Widows-11-UI-Clone">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Windows-11-UI-Clone&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+       <a href="https://github.com/bimalshrestha10/knight-productions">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=Windows-11-UI-Clone&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
        </a>
-        <a href="https://github.com/Bimalpaudel/Burger-Store-App-in-Flutter">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Burger-Store-App-in-Flutter&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
-        <a href="https://github.com/Bimalpaudel/Bollywood-Game-in-Python">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Bollywood-Game-in-Python&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
-        <a href="https://github.com/Bimalpaudel/Conic-Gradient-Analog-Clock-in-HTML-CSS-JS">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimalpaudel&repo=Conic-Gradient-Analog-Clock-in-HTML-CSS-JS&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/bimalshrestha10/personal-protfolio-website">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimalshrestha10&repo=Burger-Store-App-in-Flutter&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/Bimalpaudel?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-238636?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/bimalshrestha10?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-238636?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <a href="https://github.com/Bimalpaudel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bimalpaudel&theme=soft-green&border=238636&background=0D1117" alt="Bimal's GitHub streak"/>
+  <a href="https://github.com/bimalshrestha10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimalshrestha10&theme=soft-green&border=238636&background=0D1117" alt="Bimal's GitHub streak"/>
   </a>
 </p>
 
@@ -89,11 +83,11 @@
 <br>
 
 <div align="center"> 
-    <a href="https://github.com/Bimalpaudel"><img alt="Bimal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bimalpaudel&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
-  <a href="https://github.com/Bimalpaudel"><img alt="Bimal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bimalpaudel&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+    <a href="https://github.com/bimalshrestha10"><img alt="Bimal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bimalshrestha10&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
+  <a href="https://github.com/bimalshrestha10"><img alt="Bimal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bimalshrestha10&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
   <br/>
 </div>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimalpaudel&custom_title=Bimal%20Paudel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bimalshrestha10&custom_title=Bimal%20Shrestha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
 
