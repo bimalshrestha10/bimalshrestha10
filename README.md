@@ -31,10 +31,9 @@
  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding gif" />
 <p>
 
-📱 Flutter Developer | Web Developer | UI/UX Enthusiast <br><br>
-💻 Proficient in MEAN stack for web development <br><br>
-🎨 Passionate about crafting beautiful and user-friendly experiences <br><br>
-🌐 Contributing to open source projects <br><br>
+📱 Video Editor | Graphic Designer | Frontend Developer <br><br>
+💻 Proficient in Adobe Suit, Davinci Resolve, HTM, CSS  <br><br>
+🎨 Bringing Ideas to life through Animation and Video Editing. <br><br>
 📚 Continuously learning and exploring new technologies <br><br>
 
 </p>
