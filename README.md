@@ -19,12 +19,6 @@
  <a href="https://www.linkedin.com/in/shresthabimal11/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bimal"/>
  </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Bimal"/>
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Bimal"/>
- </a>
  <a href="https://www.instagram.com/shresthabimal11/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bimal"/>
  </a> 
@@ -73,7 +67,6 @@
 <br>
 
 <p align="center">
-  <!-- <a href="https://github.com/bimalshrestha10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bimalshrestha10&theme=soft-green&border=238636&background=0D1117" alt="Bimal's GitHub streak" /></a> -->
   <a href="https://github.com/bimalshrestha10"><img alt="Bimal's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bimalshrestha10&theme=soft-green&border=238636&background=0D1117" height="192px"/></a>
 </p>
 
